@@ -120,11 +120,11 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: VisionTQ/visiontq.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOOttLXQ
+    repo_id: R_kgDOO39tVQ
     category: General
-    category_id: DIC_kwDOOttLXc4Cqzjy
+    category_id: DIC_kwDOO39tVc4CrLh6
     mapping: pathname # optional, default to 'pathname'
-    strict: 0 # optional, default to '0'
+    strict: 1 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
     reactions_enabled: 1 # optional, default to the value of `1`
