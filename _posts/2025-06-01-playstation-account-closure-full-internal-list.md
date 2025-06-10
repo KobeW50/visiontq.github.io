@@ -28,6 +28,8 @@ Here’s what the domain tells us:
 
 If you try visiting the link, you’ll just see a login screen - it’s private and locked down for SIE staff or partners. Basically, not meant for public use.
 
+> I also posted this on Reddit if you want to see the PACMAN image directly: [Reddit – r/PlayStation](https://www.reddit.com/r/playstation/s/wFUmpLU34D)
+
 ## PlayStation Outsources Support
 
 Sony outsources their customer support. Meaning, the people who help you when you contact PlayStation support are not Sony employees - they’re from third-party companies.
