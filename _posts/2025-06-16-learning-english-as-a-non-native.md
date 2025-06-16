@@ -3,12 +3,11 @@ title: Learning English as a Non-Native
 date: 2025-06-16
 categories: [Learning, Language, Self-Improvement]
 tags: [English, Grammar, Study Techniques, ChatGPT, Language Fluency]
+author: bigbud
 pin: false
 toc: true
 comments: true
 ---
-# Learning English as a Non-Native
-
 So I asked AI (ChatGPT to be exact) to rate my English while speaking to it. I mostly don’t write using the keyboard unless necessary, but while asking it to rate my English while speaking, it gave me a solid idea on how I can improve my English. Here’s what I learned from it and what my current mistakes are:
 
 ---
