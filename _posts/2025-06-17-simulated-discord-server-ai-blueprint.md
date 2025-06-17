@@ -67,6 +67,7 @@ There are two paths you can do:
 
 * Mirror messages from real active servers
 * Rewrite them with AI to seem unique. Example:
+
 **Original:**
 > “yo anyone tryna hop on MW2 rn?”
 
