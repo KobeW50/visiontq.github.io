@@ -147,115 +147,69 @@ Now type in the thread:
 /resign
 ```
 
-There will be optional buttons that pop up after writing the command. One of them is:
+There will be optional buttons that will pop up after writing the command. One of them is:
 
 ```text
 playstation_id:
 ```
 
-Click on it. After that, it should look like this:
+Click on it, and after you do, it should look like this:
 
 ```text
 /resign playstation_id:
 ```
 
+
 Now type in your PlayStation username.
 
-⭐ Info: The bot saves your Discord ID and PSN ID together. So even if you change your username later, the bot still knows it’s you and works fine. If you’ve already told the bot your PSN once, you don’t need to keep typing `/resign playstation_id:` or `/reregion playstation_id:` every time. Just use `/resign` or `/reregion`.
+> The bot stores you discord ID and the PSN Account ID. So even if you change your username it will still know what your ID is to use the commands on it. So if you gave thr bot your playstation username you don't have to type /reregion playstation_id: just type /reregion without the playstation_id:
+ {: .prompt-info }
 
-The bot will then reply with:
+Then he bot will respond with:
 
 > Please attach at least two encrypted save files that you want to upload (.bin and non-bin). Or type 'EXIT' to cancel command.
 
-So now attach 2 save file pairs in your CUSA folder, either straight on Discord or upload them to Google Drive and share the link.
-
-Example of a save pair:  
-`SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`
-
-They’re usually found in:
+Either attach 2 save file pairs in your CUSA folder on discord or Google Drive.  
+Example of a save pair: `SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`  
+They are found in:
 
 ```text
 PS4/SAVEDATA/{account ID}/{CUSAXXXX}/{files}
 ```
 
-Done. That’s it for re-signing.
+Now you're done.
 
 ---
-
 ## Re-region Command
-
-Type this command:
 
 ```text
 /reregion
 ```
 
-There will be optional buttons that show up again. One of them is:
+Type that command to reregion your save. 
 
-```text
+There will be optional buttons that will pop up after writing the command. One of them is:
+
+```
 /reregion playstation_id:
 ```
 
-Type your PlayStation username if the bot doesn't already remember it.
+Now type in your PlayStation username.
 
-⭐ Info: Again, if you’ve already linked your PSN, you can skip adding the `playstation_id:` part.
+>Showing the info prompt: The bot stores you discord ID and the PSN Account ID. So even if you change your username it will still know what your ID is to use the commands on it
+  So if you gave thr bot your playstation username you don't have to type /reregion playstation_id: just type /reregion without the playstation_id:
+{: .prompt-info }
 
-Now the bot will reply with:
+The bot will respond with:
+> **Re-region process: Upload encrypted files from YOUR region**
+> Please attach two encrypted savefiles that you want to upload (.bin and non bin). Or type 'EXIT' to cancel command.
 
-> **Re-region process: Upload encrypted files from YOUR region**  
-> Please attach two encrypted save files that you want to upload (.bin and non-bin). Or type 'EXIT' to cancel command.
-
-So now upload 2 save file pairs from **your region**. Either upload them to Discord or drop a Google Drive link.
-
-Example:  
-`SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`
-
-Found in:
+Either attach 2 save file pairs in your CUSA folder from **YOUR REGION** on discord or Google Drive.  
+Example of a save pair: `SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`  
+They are found in:
 
 ```text
 PS4/SAVEDATA/{account ID}/{CUSAXXXX}/{files}
 ```
 
-After that, it’ll ask for the save from the **foreign region** (the save you’re trying to convert to match your version of the game).
-
-Once both are uploaded, the bot will process them and return the converted version in a ZIP file or sometimes a Google Drive folder link.
-
----
-
-# Extra Commands
-
-Now for the rest of the commands or features I [mentioned earlier](#what-are-the-features-of-this-bot). Most of these are optional unless you want to customize your save — like changing the image, title, or editing it for PC.
-
----
-
-## Decrypt Command
-
-This command gives you the raw, decrypted version of your save.
-
-Now just decrypting the save doesn’t make it human-readable — it only removes Sony’s encryption. Some games need extra work, like converting file formats or going through a second decryption layer.
-
-If the game is known in the bot’s [database](https://github.com/hzhreal/HTOS/tree/main?tab=readme-ov-file#functionalities), then the bot will handle the second-layer decryption too.
-
-Once decrypted, you can use a save editor for that specific game. Also, decrypted saves can be used on PC (for games that support it).
-
-Here’s how you use it:
-
-```text
-/decrypt
-```
-
-After that, options will show up on your Discord client. Hit enter and it should auto-fill like this:
-
-```text
-/decrypt include_sce_sys:
-```
-
-### What is `include_sce_sys:`?
-
-That’s just asking if you want to include the system files from the save. Choose either `True` or `False`. These system files sometimes aren’t needed but you can include them if you’re doing full manual editing.
-
-If the game has an extra encryption layer and the bot knows how to handle it, it’ll also ask if you want that removed.
-
----
-
-The rest of the extra command guides are being written. If you want to contribute or help out, ping me on one of the Discord servers I linked [at the top](#where-can-i-find-them).
+After uploading your files from your region 
