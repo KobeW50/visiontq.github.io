@@ -6,7 +6,6 @@ comments: true
 author: bigbud
 categories: [PlayStation, Save Modding]
 tags: [ps4, ps5, save wizard, re-sign, re-region, discord bot, game saves, save modding, cusa codes]
-hidden: true
 ---
 
 ## What is Save Wizard?
@@ -17,7 +16,7 @@ For those who don't know, Save Wizard is a paid tool that lets you mod your PS4 
 - Unlock cosmetics
 - Max out XP or levels
 
-So in everyday English, it's basically a tool to edit your save data.
+In simple terms, Save Wizard lets you edit your save data directly — adding cheats, unlocking content, modifying stats or currency.
 
 ---
 
@@ -71,7 +70,7 @@ For more information, check [https://github.com/hzhreal/HTOS/blob/main/README.md
 
 Re-signing means taking a save file that belongs to someone else and changing its account ID or "username" so it works on your PlayStation account. 
 
-For example, let's just say you found a save on the internet or your friend has a save with a cosmetic you want or has a lot of stuff in a game and you want to use that exact save, you cannot just copy it directly because it’s tied to their account. You must re-sign the save with your own account ID so the PlayStation system recognizes it as yours.
+For example, let's just say you found a save on the internet or your friend has a save with a cosmetic you want or has a lot of stuff in a game and you want to use that exact save, you cannot just copy it directly because it’s tied to their account. You must re-sign the save with your own account ID so the PlayStation system recognizes it as yours. Every PlayStation account has a hidden **account ID** — a unique, unchangeable number that stays the same even if you change your username. The re-signing process uses this ID, not your visible username.
 
 ---
 
@@ -147,69 +146,218 @@ Now type in the thread:
 /resign
 ```
 
-There will be optional buttons that will pop up after writing the command. One of them is:
+There will be optional buttons that pop up after writing the command. One of them is:
 
 ```text
 playstation_id:
 ```
 
-Click on it, and after you do, it should look like this:
+Click on it. After that, it should look like this:
 
 ```text
 /resign playstation_id:
 ```
 
-
 Now type in your PlayStation username.
 
-> The bot stores you discord ID and the PSN Account ID. So even if you change your username it will still know what your ID is to use the commands on it. So if you gave thr bot your playstation username you don't have to type /reregion playstation_id: just type /reregion without the playstation_id:
- {: .prompt-info }
+Once you've linked your PSN ID, you can simply use `/resign`[^psn] — no need to include your username again.
 
-Then he bot will respond with:
+The bot will then reply with:
 
 > Please attach at least two encrypted save files that you want to upload (.bin and non-bin). Or type 'EXIT' to cancel command.
 
-Either attach 2 save file pairs in your CUSA folder on discord or Google Drive.  
-Example of a save pair: `SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`  
-They are found in:
+So now attach 2 save file pairs in your CUSA folder, either straight on Discord or upload them to Google Drive and share the link.
+
+Example of a save pair (one encrypted `.bin` and its matching non-bin file):  
+`SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`
+
+They’re usually found in:
 
 ```text
 PS4/SAVEDATA/{account ID}/{CUSAXXXX}/{files}
 ```
 
-Now you're done.
+Done. That’s it for re-signing.
 
 ---
+
 ## Re-region Command
+
+Type this command:
 
 ```text
 /reregion
 ```
 
-Type that command to reregion your save. 
+There will be optional buttons that show up again. One of them is:
 
-There will be optional buttons that will pop up after writing the command. One of them is:
-
-```
+```text
 /reregion playstation_id:
 ```
 
-Now type in your PlayStation username.
+Type your PlayStation username if the bot doesn't already remember it.
 
->Showing the info prompt: The bot stores you discord ID and the PSN Account ID. So even if you change your username it will still know what your ID is to use the commands on it
-  So if you gave thr bot your playstation username you don't have to type /reregion playstation_id: just type /reregion without the playstation_id:
-{: .prompt-info }
+If your PSN is already linked, just type `/reregion`[^psn] directly.
 
-The bot will respond with:
-> **Re-region process: Upload encrypted files from YOUR region**
-> Please attach two encrypted savefiles that you want to upload (.bin and non bin). Or type 'EXIT' to cancel command.
+Now the bot will reply with:
 
-Either attach 2 save file pairs in your CUSA folder from **YOUR REGION** on discord or Google Drive.  
-Example of a save pair: `SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`  
-They are found in:
+> **Re-region process: Upload encrypted files from YOUR region**  
+> Please attach two encrypted save files that you want to upload (.bin and non-bin). Or type 'EXIT' to cancel command.
+
+So now upload 2 save file pairs from **your region**. Either upload them to Discord or drop a Google Drive link.
+
+Example:  
+`SAVEDATASGTA50000` & `SAVEDATASGTA50000.bin`
+
+Found in:
 
 ```text
 PS4/SAVEDATA/{account ID}/{CUSAXXXX}/{files}
 ```
 
-After uploading your files from your region 
+After that, it’ll ask for the save from the **foreign region** (the save you’re trying to convert to match your version of the game).
+
+Once both are uploaded, the bot will process them and return the converted version in a ZIP file or sometimes a Google Drive folder link.
+
+---
+
+# Extra Commands
+
+Now for the rest of the commands or features I [mentioned earlier](#what-are-the-features-of-this-bot). Most of these are optional unless you want to customize your save — like changing the image, title, or editing it for PC.
+
+---
+
+## Decrypt Command
+
+This command gives you the raw, decrypted version of your save.
+
+Now just decrypting the save doesn’t make it human-readable — it only removes Sony’s encryption. Some games need extra work, like converting file formats or going through a second decryption layer.
+
+If the game is known in the bot’s [database](https://github.com/hzhreal/HTOS/tree/main?tab=readme-ov-file#functionalities), then the bot will handle the second-layer decryption too.
+
+Once decrypted, you can use a save editor for that specific game. Also, decrypted saves can be used on PC (for games that support it).
+
+Here’s how you use it:
+
+```text
+/decrypt
+```
+
+After that, options will show up on your Discord client. Hit enter and it should auto-fill like this:
+
+```text
+/decrypt include_sce_sys:
+```
+
+### What is `include_sce_sys:`?
+
+That’s just asking if you want to include the system files from the save. Choose either `True` or `False`. These system files sometimes aren’t needed but you can include them if you’re doing full manual editing.
+
+If the game has an extra encryption layer and the bot knows how to handle it, it’ll also ask if you want that removed.
+
+##  Encrypt Command
+
+This command re-encrypts your decrypted save so it works again on PlayStation.
+
+It’s mainly used after editing a decrypted save or when you want to resign a save to a different account. The bot will take your modified files, rebuild the save folder, and apply Sony’s encryption again.
+
+Here’s how you use it:
+
+```text
+/encrypt
+```
+
+After that, options will show up on your Discord client. Hit enter and it should auto-fill like this:
+
+```text
+/encrypt upload_individually: upload_sce_sys: account_id:
+```
+
+### What do the options mean?
+
+* **upload\_individually:**
+  Set this to `True` if you want to upload each file one by one (or all at once).
+  Set to `False` if you already have the folder structure ready.
+
+* **upload\_sce\_sys:**
+  Choose `True` to include the original `sce_sys` folder in the encryption.
+  Some games need this; others don’t — it depends on what you're editing.
+
+* **account\_id:**
+  Enter the Account ID you want the save to be signed to.
+  This is how you resign the save to your own account.
+
+Once you've filled in the options, follow these steps:
+
+1. Upload the original PS4 save folder first (including `.bin` and metadata files).
+   ![encrypt 1](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_1.jpg)
+
+2. Then upload the modified, decrypted files you want to encrypt.
+   ![encrypt 2](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_2.jpg)
+
+3. The bot will process everything and give you back the encrypted save file.
+   ![encrypt 3](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_3.jpg)
+
+If you didn’t enter an Account ID or skipped that part, you’ll need to resign the save later before it works on your console
+
+
+## ❓ FAQ (Community Answers)
+
+These are questions I personally asked one of the bot hosters [**@That_kidd**](https://discord.com/users/285251932505767936) on Discord. Here's what he had to say:
+
+---
+
+### 🔹 Q1: Are there any risks to using these bots or Save Wizard?
+
+> There’s not really any risks when using the bots or Save Wizard — at least not offline.  
+>  
+> Cheating in **online games** always carries a risk of punishment or bans. But for **offline single-player saves**, no action is taken against your account.  
+>  
+> As far as I know, no one has ever been banned for using these tools offline.  
+
+---
+
+### 🔹 Q2: Is the bot open source? How reliable is it?
+
+> Yes — the bot is open-source. That means other people can host their own versions, contribute to it, and build on the code.  
+>  
+> I host one myself and try to keep it up as much as I can.  
+>  
+> The HTOS Discord has decent support too.
+
+---
+
+### 🔹 Q3: Can modified saves carry over into online games?
+
+> In some games, yes. It depends on the game.  
+  
+ For example:
+ - **Monster Hunter**  
+ - **Dark Souls / Bloodborne / Elden Ring**  
+ - **Dragon Ball Xenoverse**
+ - **Ghost of Tsushima: Legends mode**
+  
+ These games use your save data for online play.  
+  
+ For **Dark Souls/Elden Ring**, if you edit the wrong stuff, you can get banned — but only on their servers, not your PSN account.  
+(Credit - [nox_23](https://discord.com/users/346434189404405760) for the list)
+
+---
+
+### 🔹 Q4: Does the bot remember my account ID forever?
+
+> No — it only stores your **most recent account ID**.  
+>  
+> When you re-sign to a different account, the previous one gets deleted.
+
+
+
+# Notes & References
+
+[^psn]: Once your PSN ID is linked, the bot remembers you using your **Discord ID + PlayStation account ID** (not your visible PSN username).  
+Even if you change your PSN username, your **account ID stays the same** — and that’s what the bot uses to track your saves.  
+This is why you don't need to re-link your PlayStation ID after changing your username.
+
+---
+
+The rest of the extra command guides are being written. If you want to contribute or help out, ping me on one of the Discord servers I linked [at the top](#where-can-i-find-them).
