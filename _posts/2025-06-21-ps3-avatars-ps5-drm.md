@@ -2,6 +2,7 @@
 title: "PS3 Avatars Disappearing from PS5 — What’s Actually Going On?"
 description: "A deep dive into the sudden disappearance of PS3 premium avatars on PS5 and the PlayStation App. Includes support responses, DRM explanation, and community findings."
 date: 2025-06-21 00:00:00 +0000
+author: bigbud
 image: https://i.imgur.com/lID3IVU.jpeg
 categories: [PlayStation, DRM Issues]
 tags: [PS3, PS5, avatars, DRM, PlayStation Network, support, bug, digital ownership]
