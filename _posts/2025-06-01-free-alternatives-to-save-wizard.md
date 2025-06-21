@@ -357,8 +357,3 @@ These are questions I personally asked one of the bot hosters [**@That_kidd**](h
 [^psn]: Once your PSN ID is linked, the bot remembers you using your **Discord ID + PlayStation account ID** (not your visible PSN username).  
 Even if you change your PSN username, your **account ID stays the same** — and that’s what the bot uses to track your saves.  
 This is why you don't need to re-link your PlayStation ID after changing your username.
-
-
----
-
-The rest of the extra command guides are being written. If you want to contribute or help out, ping me on one of the Discord servers I linked [at the top](#where-can-i-find-them).
