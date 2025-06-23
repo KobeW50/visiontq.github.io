@@ -6,6 +6,8 @@ comments: true
 author: bigbud
 categories: [PlayStation, Save Modding]
 tags: [ps4, ps5, save wizard, re-sign, re-region, discord bot, game saves, save modding, cusa codes]
+image: https://i.imgur.com/xV4CIsX.png
+image_alt: "Minimalist black and white thumbnail featuring white silhouette icons of PS5 on the left and PS4 on the right, with a glowing Discord logo at the center in a square icon style. Below is bold white text reading 'Free Alternatives to Save Wizard.' The design is high-contrast, modern, and tech-focused, ideal for gaming-related blog content."
 ---
 
 ## What is Save Wizard?
