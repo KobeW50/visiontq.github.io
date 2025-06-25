@@ -42,6 +42,8 @@ But the PS5 doesn’t use that same system. So if Sony didn’t migrate those av
 
 After trying the usual support steps with no luck, I reached out to PlayStation Support again. This time they said they had to escalate my case to a higher department.
 
+![support chat log](https://i.imgur.com/MuYvtSu.png){: .w-75 .shadow .rounded-10 }
+
 The reason is that regular agents don’t have full permissions to access everything. The higher department is likely made up of Sony employees with admin-level access who can see and manage account details much deeper.
 
 Usually when they escalate this kind of issue, you get an email directly from someone in that department. Support told me I should expect an email within five business days or less. I’ll update this post as soon as I hear anything back.
