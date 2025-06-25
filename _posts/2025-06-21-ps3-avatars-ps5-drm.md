@@ -38,6 +38,20 @@ But the PS5 doesn’t use that same system. So if Sony didn’t migrate those av
 
 ---
 
+## Support Escalation and Internal Access Limits
+
+After trying the usual support steps with no luck, I reached out to PlayStation Support again. This time they said they had to escalate my case to a higher department.
+
+The reason is that regular agents don’t have full permissions to access everything. The higher department is likely made up of Sony employees with admin-level access who can see and manage account details much deeper.
+
+Usually when they escalate this kind of issue, you get an email directly from someone in that department. Support told me I should expect an email within five business days or less. I’ll update this post as soon as I hear anything back.
+
+They gave me a bunch of troubleshooting steps, but none of those worked since this needs someone with internal access to fix it.
+
+If you want to know more about how PlayStation outsources most support but keeps some stuff in-house, check out my other post here: [PlayStation support and internal teams breakdown](https://bigbudone.com/posts/playstation-account-closure-full-internal-list/)
+
+---
+
 ## What Reddit Users Are Saying
 
 This issue was first spotted by users on [r/PS3](https://www.reddit.com/r/PS3/comments/1ldczdb/ps3_avatars_reportedly_disappearing_from_ps5/), [r/playstation](https://www.reddit.com/r/playstation/s/XLRl5ERVHn), and on the [PSNProfiles forum](https://forum.psnprofiles.com/topic/179671-ps3-premium-avatars-seem-to-have-disappeared/). One Reddit post summarizes what a lot of people noticed:
