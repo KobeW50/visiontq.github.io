@@ -8,6 +8,7 @@ tags: [
   rdr2 chapter 2 starter, rdr2 trophy safe save, rdr2 100% save, rdr2 compendium,
   rdr2 horses, rdr2 outfits, rdr2 starter pack
 ]
+author: bigbud
 description: "A verified Red Dead Redemption 2 modded starter save for PS4 with full map access, max inventory, and low trophy risk. Created by Jay (Vicodin10), tested and documented by bigbudone."
 image: https://i.imgur.com/qgAzdBK.jpeg
 ---
