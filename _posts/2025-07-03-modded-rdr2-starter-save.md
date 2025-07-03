@@ -54,7 +54,7 @@ Here’s what the save gives you from the start:
 
 - Camp fully upgraded
 
-![Stats + Honor + Camp Money](https://i.imgur.com/0VatDCd.jpeg)
+![Stats + Honor + Camp Money](https://i.imgur.com/0VatDCd.jpeg){: .rounded-10 width="1920" }
 
 ---
 
@@ -66,7 +66,7 @@ Here’s what the save gives you from the start:
 
 - All satchels unlocked (including Legend of the East)
 
-![Valuables Tab with Gold Bars](https://i.imgur.com/0Wizsx9.jpeg)
+![Valuables Tab with Gold Bars](https://i.imgur.com/0Wizsx9.jpeg){: .rounded-10 width="1920" }
 
 ---
 
@@ -87,11 +87,11 @@ Here’s what the save gives you from the start:
 - All tack and accessories equipped
 
 
-![Horse Blu](https://i.imgur.com/qQj9MQe.jpeg)
+![Horse Blu](https://i.imgur.com/qQj9MQe.jpeg){: .rounded-10 width="1920" }
 
-![Horse Boadica](https://i.imgur.com/dODPQl7.jpeg)
+![Horse Boadica](https://i.imgur.com/dODPQl7.jpeg){: .rounded-10 width="1920" }
 
-![Horse Athena](https://i.imgur.com/vidZLR4.jpeg)
+![Horse Athena](https://i.imgur.com/vidZLR4.jpeg){: .rounded-10 width="1920" }
 
 ---
 
@@ -100,7 +100,7 @@ Here’s what the save gives you from the start:
 - Entire map is revealed (yes, including Blackwater even as Arthur!)
 
 
-![Full Map Zoomed Out](https://i.imgur.com/OLnaas9.jpeg)
+![Full Map Zoomed Out](https://i.imgur.com/OLnaas9.jpeg){: .rounded-10 width="1920" }
 
 ---
 
