@@ -11,6 +11,8 @@ image: https://i.imgur.com/Spf2gCN.jpeg
 > ⚠️ Important: Do not enable cheats in the settings! 
 > This world uses command blocks to switch between Creative and Survival *without* disabling trophies.
 
+![Command blocks](https://i.imgur.com/qHxaCm7.jpeg){: .rounded-10 }
+
 ## What This World Is
 
 This is a Minecraft PS4 modded world that allows players to:
@@ -19,6 +21,8 @@ This is a Minecraft PS4 modded world that allows players to:
 - Keep trophies enabled
 
 Perfect for trophy hunters looking to complete platinum fast while still staying "legit" under the system rules.
+
+![Set Creative](https://i.imgur.com/OllJx0T.jpeg){: .rounded-10 }
 
 I personally tested and documented the save. Read this guide to understand how to use it safely and effectively.
 
@@ -45,6 +49,8 @@ Here’s what you get with the world:
 - **Trophies remain enabled** if you don’t turn on cheats manually
 - **Buttons clearly labeled**: "Survival" and "Creative"
 - Works out-of-the-box with minimal setup
+
+![Looking at creative sign](https://i.imgur.com/eWOIU5w.jpeg)
 
 ### Usage
 
