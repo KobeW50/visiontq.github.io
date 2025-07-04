@@ -4,6 +4,7 @@ date: 2025-07-04
 author: bigbud
 categories: [Save Modding, Minecraft]
 tags: [minecraft, ps4 save, modded save, trophy world, creative survival, starter save, CUSA00744, CUSA00265, CUSA00283]
+description: "Download a modded Minecraft PS4 world that lets you switch between Creative and Survival modes without disabling trophies. Fully tested, compatible with CUSA00744, CUSA00265, and CUSA00283. Perfect for trophy hunters and achievement speedrunners."
 image: https://i.imgur.com/Spf2gCN.jpeg
 ---
 
