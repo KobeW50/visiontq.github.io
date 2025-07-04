@@ -103,5 +103,5 @@ Ask for help, request custom saves, or suggest edits. I’ll credit you for any 
   - Modders and testers
   - Fun
 
-> **Created by:** Unknown (Source Shared in Community)  
+> **Created by:** Multiao [(Source)](https://playersquared.com/members/multi%C3%A2%C5%93%CB%9C.38954/)
 > **Documented & Verified by:** bigbudone.com
