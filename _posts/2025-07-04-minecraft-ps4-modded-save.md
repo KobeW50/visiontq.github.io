@@ -1,11 +1,12 @@
 ---
 title: "Minecraft PS4 Modded Save with Trophies Enabled (CUSA00744, CUSA00265, CUSA00283)"
-date: 2025-07-04 18:55:00 +0000
+date: 2025-07-04 18:55:00
 author: bigbud
 categories: [Save Modding, Minecraft]
 tags: [minecraft, ps4 save, modded save, trophy world, creative survival, starter save, CUSA00744, CUSA00265, CUSA00283]
 image: https://i.imgur.com/Spf2gCN.jpeg
 ---
+
 > ⚠️ Important: Do not enable cheats in the settings! 
 > This world uses command blocks to switch between Creative and Survival *without* disabling trophies.
 
