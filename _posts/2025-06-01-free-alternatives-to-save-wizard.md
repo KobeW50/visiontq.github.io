@@ -181,6 +181,12 @@ PS4/SAVEDATA/{account ID}/{CUSAXXXX}/{files}
 
 Done. That’s it for re-signing.
 
+### 🖼 Visual Walkthrough
+
+![Visual tutorial showing the full resign process from command to upload and response](https://i.imgur.com/OmscS4X.jpeg){: .shadow .rounded-10 }
+
+This image shows how the full resign process looks visually — from typing the command to uploading your save files and getting the final result.
+
 ---
 
 ## Re-region Command
