@@ -49,7 +49,7 @@ Discord is a popular communication and community platform that also supports bot
 
 ## What does the bot do?
 
-These bots help you modify PlayStation game saves by allowing you to re-sign and re-region them, among other features. They handle PS4 saves using a jailbroken PS4.
+These bots help you modify PlayStation game saves by allowing you to re-sign and re-region them, among other features. The bots use a jailbroken PS4 in the backend to process encrypted saves — but you as the user do not need a jailbroken console. All you do is upload your saves.
 
 ---
 
