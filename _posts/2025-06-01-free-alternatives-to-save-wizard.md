@@ -1,7 +1,7 @@
 ---
-title: "Free Alternatives to Save Wizard for PS4/PS5 Game Saves"
+title: "How to Mod PS4 Game Saves for Free: Discord Bots as Save Wizard Alternatives"
 date: 2025-06-01
-description: "A detailed guide to free Discord-based alternatives to Save Wizard, covering features like re-signing, re-regioning, and how to use these tools for PS4 game saves."
+description: "Learn how to use Discord bots as free Save Wizard alternatives to re-sign, re-region, and mod PS4 saves. This guide covers features, commands, required files, and how to get started — all without paying for Save Wizard."
 comments: true
 author: bigbud
 categories: [PlayStation, Save Modding]
