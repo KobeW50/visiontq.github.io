@@ -4,12 +4,17 @@ date: 2025-07-10
 author: bigbud
 categories: [PlayStation, APIs, Tools]
 tags: [npsso, psnawp, psn-api, psn, token, privacy, playstation]
-image: https://i.imgur.com/wRzP92k.png
+image: https://i.imgur.com/7z6R31U.png
 author: bigbud
 description: "Learn how to extract your NPSSO token to access private PlayStation APIs like PSNAWP. This guide covers what NPSSO is, what data it can access, potential risks, safe tools, and how to automate the process."
 ---
 
 ## Get NPSSO to Access PlayStation APIs
+
+> ⚠️ **Need help or have questions?**  
+> Join our Discord server and ask in the support channels: [bigbud1.com/discord](https://bigbud1.com/discord)  
+> This guide is community-maintained — if you're unsure about any step, it's safer to ask first.  
+{: .prompt-warning }
 
 The NPSSO token lets you access private PlayStation APIs like [PSNAWP](https://github.com/Tustin/psnawp). These APIs can be used to:
 
