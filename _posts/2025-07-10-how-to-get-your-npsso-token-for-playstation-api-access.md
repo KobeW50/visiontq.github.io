@@ -12,7 +12,7 @@ description: "Learn how to extract your NPSSO token to access private PlayStatio
 ## Get NPSSO to Access PlayStation APIs
 
 > ⚠️ **Need help or have questions?**  
-> Join our Discord server and ask in the support channels: [BigBudOne - Discord](https://discord.bigbudone.com/)  
+> Join our Discord server and ask in the support channels: [BigBudOne - Discord](http://discord.bigbudone.com/)  
 > This guide is community-maintained — if you're unsure about any step, it's safer to ask first.  
 {: .prompt-warning }
 
