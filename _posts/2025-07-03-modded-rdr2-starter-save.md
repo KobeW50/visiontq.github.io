@@ -77,7 +77,7 @@ Here’s what the save gives you from the start:
 
 - Includes broken/fixed guns and rare weapons
 
-{% include embed/youtube.html id="36rmlzdHlDg" %}
+{% include embed/youtube.html id="S3TkwNDa_Eo" %}
 
 ---
 
@@ -127,7 +127,7 @@ Here’s what the save gives you from the start:
 
 - Challenges: Reset to allow fresh progression
 
-{% include embed/youtube.html id="36rmlzdHlDg" %}
+{% include embed/youtube.html id="S3TkwNDa_Eo" %}
 
 ---
 
