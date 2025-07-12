@@ -50,7 +50,7 @@ Here’s what you get with the world:
 - **Buttons clearly labeled**: "Survival" and "Creative"
 - Works out-of-the-box with minimal setup
 
-![Looking at creative sign](https://i.imgur.com/eWOIU5w.jpeg)
+![Looking at creative sign](https://i.imgur.com/eWOIU5w.jpeg) {: .rounded-10 }
 
 ### Usage
 
