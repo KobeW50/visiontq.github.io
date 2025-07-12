@@ -113,7 +113,7 @@ Here’s what the save gives you from the start:
 
  - Special & Trapper gear
 
-{% include embed/youtube.html id="36rmlzdHlDg" %}
+{% include embed/youtube.html id="S3TkwNDa_Eo" %}
 
 ---
 
