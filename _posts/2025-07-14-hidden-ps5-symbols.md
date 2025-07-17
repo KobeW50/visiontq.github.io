@@ -40,7 +40,8 @@ This character represents the PlayStation Stars program. Since that program is s
 
 This is the exact same checkmark symbol used by verified PlayStation accounts like `@PlayStationUS`. While it won’t work in your PSN username, it renders perfectly in bios.
 
-> 🧠 Note: Only PS5 renders this symbol — it won’t appear on PS App, PS4, or PC.
+> Only PS5 renders these symbols — it won’t appear on PS App, PS4, or PC.
+{: .prompt-info }
 
 ---
 
@@ -69,6 +70,7 @@ Below are all the symbols covered in this post. You can copy and paste them dire
 ```
 
 > 💡 Paste them using the profile editor on your PS5. These symbols will not render on PS4, PS App, or PC. They’re only visible to you and others on PS5 consoles.
+{: .prompt-info }
 
 ---
 
@@ -77,7 +79,7 @@ Below are all the symbols covered in this post. You can copy and paste them dire
 Here’s a real example of what your PlayStation 5 profile bio can look like after using the symbols from this post.
 
 ![PS5 Bio Example](https://i.imgur.com/AbDZhQR.jpeg)
-_ All images captured directly from my PS5 console._
+_All images captured directly from my PS5 console._
 
 ---
 
@@ -91,7 +93,7 @@ I'm working on a full technical post explaining how these symbols work, how they
 
 - Bookmark this post — more hidden symbols will be added in the future.
 - Found a symbol that works on PS5 but isn’t listed here? Let me know on my discord or comment here so I can include it.
-- Curious how to design a fully styled bio using these symbols and spacing tricks? That post is coming soon too. (Pre mae bio)
+- Curious how to design a fully styled bio using these symbols and spacing tricks? That post is coming soon too. (Pre made bio)
 
 ---
 
