@@ -4,12 +4,23 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I’m Tariq or T for short. I have big goals and a drive to keep learning and building.
+# About Me
 
-Right now, I’m studying a mix of science and tech, possibly heading toward a future in medicine if God wills. On the tech side, I’m exploring coding more deeply and expanding my skills across different areas of IT.
+**I’m Tariq — or just T for short.**  
+I’m driven by big goals and a constant desire to learn, create, and grow.
 
-Outside of studying, I enjoy writing about the things I like. I also focus on breaking down guides and content in a way that’s easy to understand and useful for everyone.
+Right now, I’m studying a mix of science and technology, with an eye on a future in medicine if God wills. I also plan to get into coding and IT, but I’ve put that on hold until I get a proper laptop. Until then, I’m focusing on other areas I can improve.
 
-This site is where I share my thoughts and anything I find interesting along the way.
+Outside of school, I enjoy writing about the things I explore. I break down complex topics into simple, clear guides so they’re useful to anyone — whether it’s about tech, gaming, or something I find interesting.
 
-Thanks for stopping by.
+This site is where I document that journey — thoughts, tutorials, tools, and everything in between.
+
+## My Current Goals
+
+- Get a laptop so I can start learning coding, beginning with Python  
+- Read and finish interesting books across different topics  
+- Improve my English fluency the right way  
+- Shift my semi-American accent toward a clear British accent  
+- Plan and sketch out ideas I want to build through code later
+
+**Thanks for stopping by**
