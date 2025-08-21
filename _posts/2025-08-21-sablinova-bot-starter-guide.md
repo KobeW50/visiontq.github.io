@@ -38,7 +38,7 @@ It creates a channel at the top of your server to attract selfbots/scammers and 
 ```
 
 3. **Set the action**\
-   Choose what happens when someone messages in the honeypot channel: none, mute, kick, or ban. If youâ€™re starting out, use `none` or `mute`.
+   Choose what happens when someone messages in the honeypot channel: none, mute, kick, or ban. If you’re starting out, use `none` or `mute`.
 
 Example for muting:
 
@@ -62,7 +62,7 @@ If you prefer something simpler, you can kick the user instead:
 -sethoneypot logschannel {#channelname}
 ```
 
-> That's it! Your honeypot command is ready to catch selfbot's & scammers.
+> That's it! Your honeypot command is ready to catch selfbots & scammers.
 
 ---
 
@@ -83,13 +83,13 @@ It's perfect for:
 #### 1. Create the Starboard
 
 ```bash
--starboard create <name> [channel] [emoji=â­]
+-starboard create <name> [channel] [emoji=⭐]
 ```
 
 **Example:**
 
 ```bash
--starboard create bigbudsb #starboard ⭐
+-starboard create bigbudsb #starboard ⭐
 ```
 
 #### 2. Set the Posting Threshold
@@ -122,7 +122,7 @@ It's perfect for:
 
 - **Auto-add emoji when someone stars a message**
 
-> Note: The `autostar` command increases engagement and helps others react as well, specially if you added this feature recently on your server.
+> Note: The `autostar` command increases engagement and helps others react as well, especially if you added this feature recently on your server.
 
 ```bash
 -starboard autostar bigbudsb
