@@ -1,16 +1,14 @@
 ---
-title: Sablinova Bot Starter Guide
-description: Essential setup and commands for the Sablinova Discord bot, including Honeypot and Starboard.
-author: bigbudone
-date: 2025-08-21 12:00:00 +0000
+title: "Sablinova Bot Starter Guide"
+description: "Essential commands for the Sablinova Discord bot, including Honeypot and Starboard."
+author: bigbud
+date: 2025-08-21
 categories: [Discord, Bots]
 tags: [Sablinova, Red-DiscordBot, Discord Bots, Guide]
-math: false
-mermaid: false
+hidden: true
 ---
 
-> Tip: This guide covers essential commands and setup for Sablinova bot. More unique commands will be added in future updates.
-{: .prompt-tip}
+> Tip: This guide covers essential commands and setup for Sablinova bot. More unique commands will be added in future updates. {: .prompt-tip}
 
 ## Introduction
 
