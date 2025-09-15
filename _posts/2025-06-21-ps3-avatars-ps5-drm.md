@@ -9,6 +9,11 @@ tags: [PS3, PS5, avatars, DRM, PlayStation Network, support, bug, digital owners
 comments: true
 ---
 
+
+> **Update (September 2025):** This post may now be **outdated**. Multiple users on Reddit, Push Square, and other forums report that many missing PS3 avatars have been restored. The fix isn’t universal — some avatars are still unavailable. There’s no official confirmation from Sony, but check your account again; your missing avatars might have returned.  
+{: .prompt-warning }
+
+
 If you’ve recently logged into your PS5 and noticed that some of your old premium avatars — especially the ones you bought back on PS3 are missing, you’re not alone. This is a real issue, and there are already dozens of reports on Reddit and even gaming news sites covering it. I looked into it myself, contacted support, and here’s everything I’ve found.
 
 ---
