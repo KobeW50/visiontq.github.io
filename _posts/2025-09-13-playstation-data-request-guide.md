@@ -19,7 +19,7 @@ The same process works on the mobile app and for the PlayStation website if you'
 1. Open the PlayStation app.  
 2. Click your profile, then select **Edit Profile**.  
 
-![EditProfilePS](/assets/PSNApp/EditProfilePS.jpg)
+![EditProfilePS](/assets/PSNApp/EditProfilePS.jpg){: .w-75 .shadow .rounded-10 }
 
 > Note: you may be prompted to log in to your PSN account.
 
@@ -31,15 +31,15 @@ If you're on PC or you prefer the PlayStation web, this part is the starting poi
 1. Sign in to your PlayStation account on the [PlayStation.com](https://www.playstation.com) website.  
 2. After you log in, click on your profile picture/avatar and then **Account Settings**, you will be on this screen:  
 
-   ![ThisScreenPSWeb](/assets/PSWeb/ThisScreenPSWeb.jpg)  
+   ![ThisScreenPSWeb](/assets/PSWeb/ThisScreenPSWeb.jpg){: .w-75 .shadow .rounded-10 }  
 3. **If not**, and you're on this page in the image below, click on the 3 lines in the top left corner:  
-   ![TopLeftCorner](/assets/PSWeb/TopLeftCorner.jpg)  
+   ![TopLeftCorner](/assets/PSWeb/TopLeftCorner.jpg){: .w-75 .shadow .rounded-10 }  
 4. Choose **Privacy Settings**:  
-   ![Privacy Settings](/assets/PSWeb/PrivacySettingsClick.jpg)  
+   ![Privacy Settings](/assets/PSWeb/PrivacySettingsClick.jpg){: .w-75 .shadow .rounded-10 }  
 5. You will now be on this screen:  
-   ![PSSett](/assets/PSWeb/PrivacySettingsSection.jpg)  
+   ![PSSett](/assets/PSWeb/PrivacySettingsSection.jpg){: .w-75 .shadow .rounded-10 }  
 6. Scroll down & you'll find the **Access Your Personal Information** section:  
-   ![ScrollingDown](/assets/PSWeb/ScrollingDown.jpg)  
+   ![ScrollingDown](/assets/PSWeb/ScrollingDown.jpg){: .w-75 .shadow .rounded-10 }  
 7. Click on the **Data Access Requests** button. You'll be taken to a page with instructions on what data they will send you and the email address it will go to.  
 
 > Note: it may take a couple of hours or days depending on the account.  
@@ -52,7 +52,7 @@ Once you receive the message by email, you will have 7 days to download your dat
 You will get an email from PlayStation saying *"Your personal information is ready to download"*.  
 
 Example:  
-![ReadytoDownload](/assets/PSWeb/ReadytoDownload.jpg)  
+![ReadytoDownload](/assets/PSWeb/ReadytoDownload.jpg){: .w-75 .shadow .rounded-10 }  
 
 1. Click the link inside the email.  
 2. You will be redirected to PlayStation's site and prompted to log in.  
