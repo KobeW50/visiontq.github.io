@@ -183,7 +183,7 @@ Done. That’s it for re-signing.
 
 ### 🖼 Visual Walkthrough
 
-![Visual tutorial showing the full resign process from command to upload and response](https://i.imgur.com/OmscS4X.jpeg){: .shadow .rounded-10 }
+![Visual tutorial showing the full resign process from command to upload and response](https://i.imgur.com/OmscS4X.jpeg){: .w-75 .shadow .rounded-10 }
 
 This image shows how the full resign process looks visually — from typing the command to uploading your save files and getting the final result.
 
@@ -298,13 +298,13 @@ After that, options will show up on your Discord client. Hit enter and it should
 Once you've filled in the options, follow these steps:
 
 1. Upload the original PS4 save folder first (including `.bin` and metadata files).
-   ![encrypt 1](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_1.jpg){: .w-75 .shadow .rounded-10 w='1212' h='668' }
+   ![encrypt 1](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_1.jpg){: .w-75 .shadow .rounded-10 }
 
 2. Then upload the modified, decrypted files you want to encrypt.
-   ![encrypt 2](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_2.jpg){: .w-75 .shadow .rounded-10 w='1212' h='668' }
+   ![encrypt 2](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_2.jpg){: .w-75 .shadow .rounded-10 }
 
 3. The bot will process everything and give you back the encrypted save file.
-   ![encrypt 3](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_3.jpg){: .w-75 .shadow .rounded-10 w='1212' h='668' }
+   ![encrypt 3](https://raw.githubusercontent.com/That-Kidd/ps-resources/main/crc/pics/encrypt_3.jpg){: .w-75 .shadow .rounded-10 }
 
 If you didn’t enter an Account ID or skipped that part, you’ll need to resign the save later before it works on your console
 
