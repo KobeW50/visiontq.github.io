@@ -93,4 +93,4 @@ At the end of this, the data you receive will mainly show how many consoles are 
 
 If you want a deeper look into your account, PSNTools offers more detailed data extraction. With it, you can view/extract things like how many times you’ve changed your PSN ID, what your previous IDs were, and other details.
 
-So, if your goal is more than just checking linked consoles and useless info, then PSNTools may be the better option
+So, if your goal is more than just checking linked consoles and useless info, then PSNTools may be the better option.
