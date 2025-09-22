@@ -41,23 +41,23 @@ This guide will teach you how to install YouTube with no ads using **ReVanced Ma
 
 5. Open the **Patcher** tab and click **Select an app**.
 
-![](/assets/ReVanced/Revanced1.jpg){: .w-75 .shadow .rounded-10 }
+![Revanced1](/assets/ReVanced/Revanced1.jpg){: .w-75 .shadow .rounded-10 }
 
 6. Click on the **Suggested Version**.
 
-![](/assets/ReVanced/Revanced2.jpg){: .w-75 .shadow .rounded-10 }
+![Revanced2](/assets/ReVanced/Revanced2.jpg){: .w-75 .shadow .rounded-10 }
 
 
 7. After clicking, you will be redirected to a Google search page.
 
-![](/assets/ReVanced/Revanced3.jpg){: .w-75 .shadow .rounded-10 }
+![Revanced3](/assets/ReVanced/Revanced3.jpg){: .w-75 .shadow .rounded-10 }
 
 8. Click on the first APKMirror link and scroll down to click the red **Download** button.  
 
 > **Important:** Do **not** install the APK yet — you’ll patch it first using ReVanced Manager.
 {: .prompt-warning }
 
-![](/assets/ReVanced/Revanced4.jpg){: .w-75 .shadow .rounded-10 }
+![Revanced4](/assets/ReVanced/Revanced4.jpg){: .w-75 .shadow .rounded-10 }
 
 ---
 
@@ -65,23 +65,23 @@ This guide will teach you how to install YouTube with no ads using **ReVanced Ma
 1. Go back to ReVanced Manager → **Patcher** tab → **Select an app** → **Storage**.  
 2. Browse your Downloads folder and select the YouTube APK you just downloaded.
 
-![](/assets/ReVanced/Revanced5.jpg){: .w-75 .shadow .rounded-10 }
+![Revanced5](/assets/ReVanced/Revanced5.jpg){: .w-75 .shadow .rounded-10 }
 
 3. ReVanced Manager will display the YouTube app with several selected patches.  
 4. Press **Patch** to begin patching.  
 
-![](/assets/ReVanced/Revanced6.png){: .w-75 .shadow .rounded-10 }
+![Revanced6](/assets/ReVanced/Revanced6.png){: .w-75 .shadow .rounded-10 }
 
 5. Keep ReVanced Manager open while the app is being patched. Ensure no errors occur. the patch log should be readable.  
 6. When patching completes, press **Install**.  
 
 > 💡 Tip: You can also export the patched APK using the button on the bottom left.  
 
-![](/assets/ReVanced/Revanced7.png){: .w-75 .shadow .rounded-10 }
+![Revanced7](/assets/ReVanced/Revanced7.png){: .w-75 .shadow .rounded-10 }
 
 7. If a popup appears saying installation is blocked because it is an unknown app, tap "**More details**" → "**Install anyway**".
 
-![](/assets/ReVanced/Revanced8.png){: .w-75 .shadow .rounded-10 }
+![Revanced8](/assets/ReVanced/Revanced8.png){: .w-75 .shadow .rounded-10 }
 
 ---
 
