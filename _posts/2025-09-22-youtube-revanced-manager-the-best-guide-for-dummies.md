@@ -4,7 +4,7 @@ date: 2025-09-22
 author: bigbud
 description: "Step-by-step guide to install YouTube without ads using ReVanced Manager. Non-root friendly and Huawei compatible."
 tags: ["YouTube", "ReVanced", "ReVanced Manager", "No Ads", "Android", "Huawei"]
-categories: ["Guides", "Tutorials"]
+categories: ["Android", "Tutorials"]
 image: /assets/Revanced/Revanced.png
 ---
 
