@@ -5,6 +5,7 @@ author: bigbud
 description: "Seal App, a free, ad-free Android APK app that lets you download videos and MP3 audio from YouTube, TikTok, Instagram, and more, with high quality and ease."
 tags: ["Seal", "Android", "YouTube downloader", "TikTok downloader", "MP3 downloader", "Video downloader"]
 categories: ["Android", "Tutorials"]
+image: /assets/SealApp/Seal-App.jpg
 ---
 
 ## What is The Seal App?
