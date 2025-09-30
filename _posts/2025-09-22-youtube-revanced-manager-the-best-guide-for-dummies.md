@@ -37,22 +37,20 @@ This guide will teach you how to install YouTube with no ads using **ReVanced Ma
 
 3. Open ReVanced Manager. If prompted, grant permission to install unknown apps.  
 
-4. Go to ReVanced Manager **Settings** and disable `Save patched app` to prevent future issues.  
-
-5. Open the **Patcher** tab and click **Select an app**.
+4. Open the **Patcher** tab and click **Select an app**.
 
 ![Revanced1](/assets/Revanced/Revanced1.jpg){: .w-75 .shadow .rounded-10 }
 
-6. Click on the **Suggested Version**.
+5. Click on the **Suggested Version**.
 
 ![Revanced2](/assets/Revanced/Revanced2.jpg){: .w-75 .shadow .rounded-10 }
 
 
-7. After clicking, you will be redirected to a Google search page.
+6. After clicking, you will be redirected to a Google search page.
 
 ![Revanced3](/assets/Revanced/Revanced3.jpg){: .w-75 .shadow .rounded-10 }
 
-8. Click on the first APKMirror link for the **nodpi** APK and scroll down to click the red **Download** button.  
+7. Click on the first APKMirror link for the **nodpi** APK and scroll down to click the red **Download** button.  
 
 > **Important:** Do **not** install the APK yet — you’ll patch it first using ReVanced Manager.
 {: .prompt-warning }
