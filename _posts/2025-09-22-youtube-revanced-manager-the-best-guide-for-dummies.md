@@ -52,7 +52,7 @@ This guide will teach you how to install YouTube with no ads using **ReVanced Ma
 
 ![Revanced3](/assets/Revanced/Revanced3.jpg){: .w-75 .shadow .rounded-10 }
 
-8. Click on the first APKMirror link and scroll down to click the red **Download** button.  
+8. Click on the first APKMirror link for the **nodpi** APK and scroll down to click the red **Download** button.  
 
 > **Important:** Do **not** install the APK yet — you’ll patch it first using ReVanced Manager.
 {: .prompt-warning }
